@@ -76,4 +76,4 @@ Objective: Offer granular insights into patient-level data to enable detailed an
 4. Analyzed **department referrals** to identify the most frequently referred departments and optimize patient routing.
 5. Examined **patient demographics** across age, gender, and race to detect care disparity patterns and support equitable resource distribution.
 
-*This project was built as part of my data analytics learning journey.*
+
