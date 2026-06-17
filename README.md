@@ -12,4 +12,22 @@
 | 🧮 Calculations | DAX (Data Analysis Expressions) |
 | 🤖 AI Assistance | ChatGPT, Claude AI |
 
+## 🔄 Project Workflow
+
+```
+Kaggle Dataset (CSV)
+        ↓
+  MySQL Database
+  ├── Data Cleaning
+  ├── Feature Engineering
+  ├── Business Analysis Queries
+  └── Final View Creation
+        ↓
+  Power BI Desktop
+  ├── Data Connection (MySQL View)
+  ├── DAX Measures
+  └── Dashboard (3 Pages)
+        ↓
+  Insights & Reporting
+
 *This project was built as part of my data analytics learning journey.*
