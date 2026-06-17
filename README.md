@@ -1,2 +1,2 @@
 # Hospital-Emergency-Room-Power-BI-Dashboard
-![image alt]ChatGPT Image Jun 17, 2026, 01_01_28 PM.png
+![image alt](https://github.com/dayanachankar/Hospital-Emergency-Room-Power-BI-Dashboard/blob/63c0be15aa958e4906dcf8e8125ee93ed2e4f1b0/README.md)
