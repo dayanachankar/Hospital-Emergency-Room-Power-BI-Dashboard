@@ -30,6 +30,18 @@ Kaggle Dataset (CSV)
         ↓
   Insights & Reporting
 ```
+## 📊 Dashboard Pages
+
+### 1️⃣ Monthly View
+Objective: Monitor key metrics and trends on a month-by-month basis to identify patterns and areas for improvement.
+
+### 2️⃣ Consolidated View
+Objective: Provide a holistic summary of hospital performance for a selected date range.
+
+### 3️⃣ Patient Detail
+Objective: Offer granular insights into patient-level data to enable detailed analysis and troubleshooting.
+
+---
 ## 🧮 DAX Measures Created
 ```DAX
 1.Total Patients = COUNTROWS(vw_ER_Dashboard)
