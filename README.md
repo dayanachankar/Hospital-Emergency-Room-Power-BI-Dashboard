@@ -1,2 +1,3 @@
 # Hospital-Emergency-Room-Power-BI-Dashboard
-![Hospital ER Dashboard](https://raw.githubusercontent.com/dayanachankar/Hospital-Emergency-Room-Power-BI-Dashboard/main/ChatGPT%20Image%20Jun%2017,%202026,%2001_01_28%20PM.png)
+<img width="1536" height="1024" alt="ChatGPT Image Jun 17, 2026, 01_01_28 PM" src="https://github.com/user-attachments/assets/c49fec9b-ee1b-4791-935d-edb1eba69375" />
+
