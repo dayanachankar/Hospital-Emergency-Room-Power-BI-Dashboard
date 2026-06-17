@@ -60,5 +60,12 @@ Objective: Offer granular insights into patient-level data to enable detailed an
 
 8.% Over 30 Min = 100 - [% Within 30 Min]
 ```
+## 📊 Project Insights
+
+1. Analyzed **6,770 ER patient records** to uncover key bottlenecks in hospital flow and operational performance.
+2. Identified **weekends (Sat–Sun, 07–08 hrs)** as peak hours, enabling data-driven staffing and resource allocation decisions.
+3. Measured the percentage of patients treated **within and beyond the 30-minute target** wait time to assess service efficiency.
+4. Analyzed **department referrals** to identify the most frequently referred departments and optimize patient routing.
+5. Examined **patient demographics** across age, gender, and race to detect care disparity patterns and support equitable resource distribution.
 
 *This project was built as part of my data analytics learning journey.*
