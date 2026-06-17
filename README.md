@@ -1,6 +1,14 @@
 # Hospital-Emergency-Room-Power-BI-Dashboard
 <img width="500" height="300" alt="ChatGPT Image Jun 17, 2026, 01_01_28 PM" src="https://github.com/user-attachments/assets/c49fec9b-ee1b-4791-935d-edb1eba69375" />
 
+## 🎯 About Project & Objectives
+
+1. Built an interactive 3-view ER Dashboard in Excel using **6,770 patient records** sourced from Kaggle.
+2. Analyzed ER operations to surface trends in **patient volume, 30-min wait target compliance, satisfaction scores, and department referrals.**
+3. Designed KPIs tracking **average wait time (35.4 min), satisfaction score (4.91), admission rate, and referral distribution** across departments.
+4. Enabled hospital stakeholders to pinpoint **peak hours, demographic patterns, and referral bottlenecks** through drill-down interactive views.
+5. Transformed 6,770 raw patient records into a **3-view actionable dashboard** — Monthly, Consolidated, and Patient Detail — supporting decisions at every level.
+
 ## 🛠️ Tools & Technologies
 
 | Stage | Tool |
