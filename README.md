@@ -3,11 +3,11 @@
 
 ## 🎯 About Project & Objectives
 
-1. Built an interactive 3-view ER Dashboard in Excel using **6,770 patient records** sourced from Kaggle.
-2. Analyzed ER operations to surface trends in **patient volume, 30-min wait target compliance, satisfaction scores, and department referrals.**
-3. Designed KPIs tracking **average wait time (35.4 min), satisfaction score (4.91), admission rate, and referral distribution** across departments.
-4. Enabled hospital stakeholders to pinpoint **peak hours, demographic patterns, and referral bottlenecks** through drill-down interactive views.
-5. Transformed 6,770 raw patient records into a **3-view actionable dashboard** — Monthly, Consolidated, and Patient Detail — supporting decisions at every level.
+1. Designed and developed a 3-view Hospital ER analytics dashboard in Power BI using 6,770 patient records from Kaggle, following a complete ETL pipeline — CSV → Excel → SQL Server → Power BI.
+2. Established KPIs including average wait time (35.4 min), patient satisfaction score (4.91), admission rate (31.99%), and total referrals (2,854) to measure ER performance.
+3. Delivered insights on peak hour congestion, 30-minute wait target compliance (59.62%), and top referral departments to help optimize ER operations.
+4. Built Monthly, Consolidated, and Patient Detail views to give stakeholders visibility at every level — from overall trends to individual patient records.
+5. Cleaned and transformed raw data using SQL Server (views & queries) and connected it to Power BI for interactive reporting and performance monitoring across patient demographics.
 
 ## 🛠️ Tools & Technologies
 
