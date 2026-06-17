@@ -30,4 +30,23 @@ Kaggle Dataset (CSV)
         ↓
   Insights & Reporting
 ```
+## 🧮 DAX Measures Created
+```DAX
+1.Total Patients = COUNTROWS(vw_ER_Dashboard)
+
+2.Avg Wait Time = AVERAGE(vw_ER_Dashboard[patient_waittime])
+
+3.Avg Satisfaction Score = AVERAGE(vw_ER_Dashboard[patient_sat_score])
+
+4.Total Referred = CALCULATE(COUNTROWS(vw_ER_Dashboard),vw_ER_Dashboard[department_referral] <> "None")
+
+5.Admitted Patients = CALCULATE(COUNTROWS(vw_ER_Dashboard),vw_ER_Dashboard[patient_admission_flag] = "Yes")
+
+6.Not Admitted Patients = CALCULATE(COUNTROWS(vw_ER_Dashboard),vw_ER_Dashboard[patient_admission_flag] = "No")
+
+7.% Within 30 Min = DIVIDE(CALCULATE(COUNTROWS(vw_ER_Dashboard),vw_ER_Dashboard[patient_waittime] <= 30),[Total Patients],0) * 100
+
+8.% Over 30 Min = 100 - [% Within 30 Min]
+```
+
 *This project was built as part of my data analytics learning journey.*
