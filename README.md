@@ -29,5 +29,5 @@ Kaggle Dataset (CSV)
   └── Dashboard (3 Pages)
         ↓
   Insights & Reporting
-
+```
 # This project was built as part of my data analytics learning journey.
