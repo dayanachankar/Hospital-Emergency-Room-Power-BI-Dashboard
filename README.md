@@ -30,4 +30,4 @@ Kaggle Dataset (CSV)
         ↓
   Insights & Reporting
 
-*This project was built as part of my data analytics learning journey.*
+# This project was built as part of my data analytics learning journey.
