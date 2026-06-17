@@ -11,3 +11,5 @@
 | 📊 Visualization | Microsoft Power BI |
 | 🧮 Calculations | DAX (Data Analysis Expressions) |
 | 🤖 AI Assistance | ChatGPT, Claude AI |
+
+*This project was built as part of my data analytics learning journey.*
